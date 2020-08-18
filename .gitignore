@@ -1,5 +1,5 @@
 .DS_Store
-.ipynb_chackpoints
+.ipynb_checkpoints
 *.pyc
 __pycache__
 
